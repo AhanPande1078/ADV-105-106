@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-color:orange;
+}
+.btn-success {
+    width: 100px;
+    font-style: italic;
+}
